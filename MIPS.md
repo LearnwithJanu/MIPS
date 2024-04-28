@@ -96,7 +96,7 @@ MIPS program to perform programs with transfer operations, such as unconditional
  *These stages allow for efficient processing of multiple instructions simultaneously, improving overall performance.*<Br>
 
 
- ![Stages in MIPS](C:/Users/janan/Desktop/MIPS/MIPS.png)
+ ![Stages in MIPS](MIPS.png)
 
 
 
