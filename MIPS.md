@@ -89,10 +89,10 @@ MIPS program to perform programs with transfer operations, such as unconditional
 
 ### *Stages of MIPS instruction*<Br>
  *1.Fetch: Get the next instruction from memory.*<Br>
- *1.Decode: Understand the instruction and get necessary data.*<Br>
- *1.Execute: Perform the operation specified by the instruction.*<Br>
- *1.Memory Access: If needed, access memory (e.g., for load/store instructions).*<Br>
- *1.Write Back: Store the result in the appropriate register.*<Br>
+ *2.Decode: Understand the instruction and get necessary data.*<Br>
+ *3.Execute: Perform the operation specified by the instruction.*<Br>
+ *4.Memory Access: If needed, access memory (e.g., for load/store instructions).*<Br>
+ *5.Write Back: Store the result in the appropriate register.*<Br>
  *These stages allow for efficient processing of multiple instructions simultaneously, improving overall performance.*<Br>
 
 
